@@ -2,8 +2,7 @@
 title:  "약수의 합"
 excerpt: "프로그래머스 코딩 테스트 문제입니다. 자바를 이용하여 문제를 해결해봅시다! "
 
-categories:
-  - CodingTest
+categories: programmers
 tags:
   - [CodingTest, Programmers, java]
 

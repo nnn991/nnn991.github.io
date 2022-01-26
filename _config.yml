@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이정훈(JungHun Lee)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "코딩 공부를 시작하고있습니다! 화이팅!"
+  location         : "대한민국(South Korea)"
+  email            : nnn991@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
